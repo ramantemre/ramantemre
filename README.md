@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ramantemre/">LinkedIn</a></h3>
 <p align="left">
